@@ -34,5 +34,3 @@ for book in books:
 
 # Close the WebDriver
 driver.quit()
-
-#that returns top rated cheapest books 
