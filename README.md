@@ -1,1 +1,3 @@
-# selenium-project
+# Book store scraper
+
+This project is a simple web scraping script built using Python and Selenium to extract information from an online book store, "Books to Scrape." The script navigates to the website, scrapes book details such as titles, prices, ratings, and availability from a single page, and outputs the extracted data in a readable format. This project serves as an introduction to web scraping and demonstrates basic Selenium functionalities like finding elements, extracting text, and navigating web pages. It is an excellent starting point for those new to web scraping, requiring minimal setup and no additional libraries beyond Selenium.
